@@ -9,7 +9,7 @@ El programa imprime mensajes en consola utilizando System.out.println.
 ---
 
 ## 👩‍💻 Integrantes
-- Mari
+- Mariana Parra Londoño
 - Andreina
 
 ---
