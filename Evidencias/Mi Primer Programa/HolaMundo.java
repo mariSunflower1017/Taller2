@@ -1,5 +1,3 @@
-/*Programa Creado por Samuel Campo y Nicolas Gonzalez Toro */
-
 import java.util.Scanner;
 
 public class HolaMundo {
