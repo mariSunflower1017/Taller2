@@ -1,22 +1,25 @@
-# Mi Primer Programa
+# 💻 Primer Programa - Hola Mundo en Java
 
-# Contenido
+## 📌 Descripción
+Este proyecto consiste en la creación de un programa básico en Java llamado *HolaMundo*, desarrollado como parte del segundo taller del curso.  
+El objetivo es comprender la estructura inicial de un programa, el uso de GitHub y el trabajo colaborativo.
 
--Solucion Commandchallenge
--Repositorio
--Programa
--Creditos
+El programa imprime mensajes en consola utilizando System.out.println.
 
-##  Command Challenge
- TODO: Agregar explicacion sobre este ejercicio, las evidencias y las conclusiones de lo aprendido
+---
 
-## Repositorio
- 
- TODO: Agregar los apuntes de clase de como se crea un repositorio y sus principales comandos
+## 👩‍💻 Integrantes
+- Mari
+- Andreina
 
-## Programa
- TODO: NO FALTAR A CLASE 
+---
 
-## Creditos
- Mariana Parra Londoño
+## ⚙️ Tecnologías utilizadas
+- Java ☕
+- Git
+- GitHub
+- Visual Studio Code
 
+---
+
+## 📂 Estructura del proyecto
