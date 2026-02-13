@@ -9,7 +9,7 @@ El objetivo es comprender la estructura inicial de un programa, el uso de GitHub
 
 ## 👩‍💻 Integrantes
 - Mariana Parra Londoño
-- Andreina
+- Andreina Garro Rodriguez
 
 ---
 
@@ -34,7 +34,7 @@ Taller2/
 
 ## Refencias 
 - Chat GPT como guia: https://chatgpt.com/c/698f28f5-21d4-832e-9776-9ee560b824fb
-- Xaca rana como gia para el jdk: https://xacarana.com/
+- Xaca rana como guia para el jdk: https://xacarana.com/
 
 
 
